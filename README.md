@@ -30,7 +30,7 @@ npx hardhat run scripts/deploy.js --network goerli
 
 ----------------------------
 
-前端
+前端  （main分支）
 在目录 NFT-Collection 下面
 npx create-next-app@latest    全部回车
 cd my-app
